@@ -1,0 +1,15 @@
+In this project, we will see how a voice assistant can be made for searching for movies or films. After giving input as movie name in audio format and it will give the information about that movie in audio format as well.
+--------------------------------------------------------------------------------------------------------------
+As we know the greatest searching website for movies is IMDb. IMDb is an online database of information related to films, television programs, home videos, video games, and streaming content online including cast, production crew, and personal biographies, plot summaries, trivia, ratings, and fan, and critical reviews.
+----->--------------------->-------------------------->-------------------------->----------------------->
+Before run the code and give the input you have to installed some packages.
+>   IMDbPY: It is a Python package useful to retrieve and manage the data of the IMDb movie database about    movies, people, characters, and companies. It can be installed using the below command:
+                    pip install IMDbPY
+>   pyttsx3: It is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline and is compatible with both Python 2 and 3. It can be installed using the below command:
+                    pip install pyttsx3
+>   SpeechRecognition: Library for performing speech recognition, with support for several engines and APIs, online and offline. It can be installed using the below command:
+                    pip install SpeechRecognition
+>   Datetime: Encapsulation of date/time values. It can be installed using the below command:
+                    pip install DateTime
+>   pyaudio: With PyAudio, you can easily use Python to play and record audio on a variety of platforms, such as GNU/Linux, Microsoft Windows, and Apple macOS.
+                    pip install pyaudio
